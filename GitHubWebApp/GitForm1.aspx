@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is Git Hub Web App sample taken from ASP.Net Web App (VB)
+            <b> This is Git Hub Web App sample taken from ASP.Net Web App (VB)</b>
         </div>
     </form>
 </body>
