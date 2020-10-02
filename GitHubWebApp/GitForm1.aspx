@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="WebForm1.aspx.vb" Inherits="GitHubWebApp.WebForm1" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="GitForm1.aspx.vb" Inherits="GitHubWebApp.WebForm1" %>
 
 <!DOCTYPE html>
 
